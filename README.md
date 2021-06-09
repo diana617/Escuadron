@@ -1,4 +1,4 @@
 # Escuadron
-#Brandon Olivas
-#Manuel Guillen
-#Diana Olivas 
+Brandon Olivas
+Manuel Guillen
+Diana Olivas 
